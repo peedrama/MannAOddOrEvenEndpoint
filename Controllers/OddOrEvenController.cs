@@ -31,7 +31,7 @@ public class OddOrEvenController : ControllerBase
     public string OddOrEven(string num) {
       int convertNum;
       bool isNumValid = Int32.TryParse(num, out convertNum);
-      string result = "Please enter a valid number.";
+      string result = "Please enter a valid integer.";
       string type = "";
       if (isNumValid)
       {
