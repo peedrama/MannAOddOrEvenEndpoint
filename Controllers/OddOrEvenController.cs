@@ -2,7 +2,7 @@
 // 10-26-22
 // Odd Or Even - Endpoint
 // Pull in variables via URL for our Odd Or Even API project
-// Peer reviewed by
+// Peer reviewed by Jasmine Leek - great code, works perfectly when tested against odds, evens, and negative numbers.
 
 using Microsoft.AspNetCore.Mvc;
 
