@@ -3,6 +3,7 @@
 // Odd Or Even - Endpoint
 // Pull in variables via URL for our Odd Or Even API project
 // Peer reviewed by Jasmine Leek: Great code, works perfectly when tested against odds, evens, and negative numbers.
+// Github URL: https://github.com/peedrama/MannAOddOrEvenEndpoint
 
 using Microsoft.AspNetCore.Mvc;
 
